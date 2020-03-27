@@ -1,0 +1,10 @@
+Membri
+- Endri Gjura 			- 0000831154
+- Hiari Pizzini Cavagna		- 0000832525
+- Lorenzo Bertusi		- 0000825516
+
+Abstract
+ 
+Nell'utilizzo della rete dal proprio computer spesso non si ha facilmente accesso ai dati utilizzati e a diverse statistiche. 
+Si vuole quindi progettare un'applicazione che, tramite l'osservazione dei pacchetti in entrata ed in uscita dalla propria macchina, sia in grado di archiviare, analizzare ed elaborare i dati riguardanti la navigazione. 
+Il fine sarà quello di fornire un servizio di raccolta ed elaborazione dei dati di rete raccolti accessibile in qualsiasi momento dall'utente. Tramite interfaccia grafica si renderanno  disponibili statistiche ed analisi dei dati di navigazione raccolti, a scopo di controllo del traffico da parte di un super user (parental control, amministratore della macchina etc).
